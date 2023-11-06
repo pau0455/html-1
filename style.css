@@ -1,1 +1,29 @@
 * {border: 0.1em solid black; }
+
+.green{
+    border:1em solid green;
+}
+
+.dotted{
+    border: 0.2em dotted black;
+
+}
+
+.red{
+    background-color: red;
+}
+
+.white-text--black-background{
+    color: white;
+    background-color: black;
+
+}
+
+.circle{
+    border-radius: 50%;
+}
+
+.black-background{
+    background-color: black;
+
+}
